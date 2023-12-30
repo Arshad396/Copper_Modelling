@@ -9,7 +9,7 @@ The objective of this project is to address challenges faced by the copper indus
 **Classification Modeling:** Classifying leads as either 'WON' or 'LOST' to assess their likelihood of becoming customers.
 Skills Acquired
 
-**This project has been instrumental in gaining proficiency in:******
+**This project has been instrumental in gaining proficiency in:**
 
 **Python programming language and its data analysis libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, and Streamlit.
 Data preprocessing techniques including handling missing values, outlier detection, and data normalization for machine learning model preparation.
